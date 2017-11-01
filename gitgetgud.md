@@ -40,3 +40,9 @@
 `git reflog`
 * go to intended state using
 `git reset --hard <sha-1_code>`
+
+### If delete file directory that have been created
+`git clean -fd`
+
+### to fetch all of tag version
+`git fetch origin/upstream -t`
